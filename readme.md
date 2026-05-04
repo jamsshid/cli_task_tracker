@@ -81,7 +81,7 @@ python task.py list
 ID    Status   Created                   Updated                   Description
 ---------------------------------------------------------------------------
 1     done     01/06/2024, 08:00:00      01/06/2024, 09:15:00      Buy cappuccino
-2     progress 01/06/2024, 09:00:00  01/06/2024, 10:02:33      Write unit tests
+2     progress 01/06/2024, 09:00:00      01/06/2024, 10:02:33      Write unit tests
 3     todo     01/06/2024, 08:45:00      01/06/2024, 08:45:00      Update README
 ```
 

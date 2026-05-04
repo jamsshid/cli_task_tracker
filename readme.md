@@ -153,10 +153,10 @@ Error: 99 not found
 ```
 
 
-(This project is done by me as a challenge based on the of roadme.sh, link: https://roadmap.sh/projects/task-tracker)
-
 If an invalid command or missing arguments are provided:
 
 ```
 Invalid command or missing arguments.
 ```
+
+(This project is done by me as a challenge based on the of roadme.sh, link: https://roadmap.sh/projects/task-tracker)

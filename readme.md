@@ -77,8 +77,7 @@ Task Manager CLI is a minimal task tracker that runs entirely inside a Docker co
 1. Clone the repository
 
    ```powershell
-   git clone https://github.com/jamsshid/cli-task-tracker.git
-   cd cli-task-tracker
+   git clone https://github.com/jamsshid/cli-task-tracker.git && cd cli-task-tracker
    ```
 
 2. Build the Docker image

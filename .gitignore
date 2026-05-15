@@ -1,0 +1,4 @@
+tasks.json
+   data/
+   __pycache__/
+   *.pyc

@@ -6,10 +6,6 @@
 
   <p>
     A simple and lightweight command-line task manager — runs fully inside Docker, no Python setup needed.
-    <br />
-    <a href="https://github.com/jamsshid/cli-task-tracker/issues/new?labels=bug">Report Bug</a>
-    &middot;
-    <a href="https://github.com/jamsshid/cli-task-tracker/issues/new?labels=enhancement">Request Feature</a>
   </p>
 
   [![Python][python-shield]][python-url]
